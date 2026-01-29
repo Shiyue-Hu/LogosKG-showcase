@@ -5,24 +5,27 @@ title: Hyperspace by HTML5 UP
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
     <div class="inner">
-        <h1>LogosKG</h1>
-        <p>Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: <br />
-        Applications to Clinical Diagnosis Prediction</p>
+        <h1 style="font-size: 4.5em; margin-bottom: 0.2em; line-height: 1.1;">LogosKG</h1>
         
-        <p style="margin-bottom: 0.5em;">
+        <h2 style="font-size: 1.8em; font-weight: 300; margin-bottom: 1.5em; line-height: 1.4; color: rgba(255, 255, 255, 0.9);">
+            Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: <br />
+            Applications to Clinical Diagnosis Prediction
+        </h2>
+        
+        <p style="margin-bottom: 0.5em; font-size: 1.1em;">
             He Cheng¹*, Yifu Wu¹*, Saksham Khatwani¹², Maya Kruse¹, Dmitriy Dligach³, <br />
             Timothy A. Miller⁴⁵, Majid Afshar⁶, Yanjun Gao¹
         </p>
 
-        <details style="margin-bottom: 2em; cursor: pointer;">
-            <summary style="text-decoration: underline; font-weight: bold;">Affiliations ▾</summary>
-            <ol style="font-size: 0.8em; opacity: 0.8; margin-top: 10px; line-height: 1.6;">
-                <li>University of Colorado Anschutz Medical Campus, Aurora, CO, USA [cite: 6]</li>
-                <li>University of Colorado Boulder, Boulder, CO, USA [cite: 6]</li>
-                <li>Loyola University Chicago, Chicago, IL, USA [cite: 7]</li>
-                <li>Harvard Medical School, Boston, MA, USA [cite: 7]</li>
-                <li>Boston Children's Hospital, Boston, MA, USA [cite: 7]</li>
-                <li>University of Wisconsin-Madison, Madison, WI, USA [cite: 8]</li>
+        <details style="margin-bottom: 2.5em; cursor: pointer;">
+            <summary style="text-decoration: underline; font-weight: bold; opacity: 0.7;">Affiliations ▾</summary>
+            <ol style="font-size: 0.85em; opacity: 0.8; margin-top: 10px; line-height: 1.6; text-align: left;">
+                <li>University of Colorado Anschutz Medical Campus, Aurora, CO, USA</li>
+                <li>University of Colorado Boulder, Boulder, CO, USA</li>
+                <li>Loyola University Chicago, Chicago, IL, USA</li>
+                <li>Harvard Medical School, Boston, MA, USA</li>
+                <li>Boston Children's Hospital, Boston, MA, USA</li>
+                <li>University of Wisconsin-Madison, Madison, WI, USA</li>
             </ol>
         </details>
 
