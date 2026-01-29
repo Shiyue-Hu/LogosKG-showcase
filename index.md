@@ -4,19 +4,32 @@ title: Hyperspace by HTML5 UP
 ---
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
-	<div class="inner">
-		<h1>LogosKG</h1>
-		<p>Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: <br />
-		Applications to Clinical Diagnosis Prediction [cite: 4]</p>
-		<p style="font-size: 0.8em; opacity: 0.8;">
-			He Cheng¹*, Yifu Wu¹*, Saksham Khatwani¹², Maya Kruse¹, Dmitriy Dligach³, <br />
-			Timothy A. Miller⁴⁵, Majid Afshar⁶, Yanjun Gao¹ [cite: 5]
-		</p>
-		<ul class="actions">
-			<li><a href="#one" class="button scrolly">View Abstract</a></li>
-			<li><a href="https://doi.org/10.64898/2026.01.12.26343957" class="button">Read Paper</a></li>
-		</ul>
-	</div>
+    <div class="inner">
+        <h1>LogosKG</h1>
+        <p>Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: <br />
+        Applications to Clinical Diagnosis Prediction</p>
+        
+        <p style="margin-bottom: 0.5em;">
+            He Cheng¹*, Yifu Wu¹*, Saksham Khatwani¹², Maya Kruse¹, Dmitriy Dligach³, <br />
+            Timothy A. Miller⁴⁵, Majid Afshar⁶, Yanjun Gao¹
+        </p>
+
+        <details style="margin-bottom: 2em; cursor: pointer;">
+            <summary style="text-decoration: underline; font-weight: bold;">Affiliations ▾</summary>
+            <ol style="font-size: 0.8em; opacity: 0.8; margin-top: 10px; line-height: 1.6;">
+                <li>University of Colorado Anschutz Medical Campus, Aurora, CO, USA [cite: 6]</li>
+                <li>University of Colorado Boulder, Boulder, CO, USA [cite: 6]</li>
+                <li>Loyola University Chicago, Chicago, IL, USA [cite: 7]</li>
+                <li>Harvard Medical School, Boston, MA, USA [cite: 7]</li>
+                <li>Boston Children's Hospital, Boston, MA, USA [cite: 7]</li>
+                <li>University of Wisconsin-Madison, Madison, WI, USA [cite: 8]</li>
+            </ol>
+        </details>
+
+        <ul class="actions">
+            <li><a href="#one" class="button scrolly">Learn more</a></li>
+        </ul>
+    </div>
 </section>
 
 <!-- One -->
