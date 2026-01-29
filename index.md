@@ -5,11 +5,16 @@ title: Hyperspace by HTML5 UP
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>Hyperspace</h1>
-		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+		<h1>LogosKG</h1>
+		<p>Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning: <br />
+		Applications to Clinical Diagnosis Prediction [cite: 4]</p>
+		<p style="font-size: 0.8em; opacity: 0.8;">
+			He Cheng¹*, Yifu Wu¹*, Saksham Khatwani¹², Maya Kruse¹, Dmitriy Dligach³, <br />
+			Timothy A. Miller⁴⁵, Majid Afshar⁶, Yanjun Gao¹ [cite: 5]
+		</p>
 		<ul class="actions">
-			<li><a href="#one" class="button scrolly">Learn more</a></li>
+			<li><a href="#one" class="button scrolly">View Abstract</a></li>
+			<li><a href="https://doi.org/10.64898/2026.01.12.26343957" class="button">Read Paper</a></li>
 		</ul>
 	</div>
 </section>
